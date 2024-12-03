@@ -1,0 +1,23 @@
+ide cusros
+плагин для VSCode Zencoder
+IDE Windserf Editor (на базе VS code)
+плагин Cline (генерит и запускает, тратит токены)
+aider
+CodeRabbit (для GitHub на коммиты)
+Gitgub Copilote
+Jet Brains AI Assistent
+MateOS,
+Cody (sourcgraph)
+AmazonQ (wishper)
+Google Studio Gemmini
+Tabnine
+ChatGPT (canvas)
+ChatGPT (o1)
+Snyk Code
+другие LLM-ки (llama и прочие)
+Greptile
+
+
+для SQL
+AskYourDataBase
+ai2sql

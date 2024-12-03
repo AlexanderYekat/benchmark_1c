@@ -1,0 +1,28 @@
+Есть какйо-то стичесуий линетр, который прямо во время кода,
+без запускаа покзаывает поля
+
+Построение дерева вызовов процедур и функций
+https://infostart.ru/1c/tools/203843/
+
+Диаграмма объектов 1С
+https://github.com/plastinin/diagramobject
+Анализ цепочки документов в 1С:ERP
+https://infostart.ru/1c/tools/1527549/
+https://www.youtube.com/watch?v=psK2fZUtbf4
+"Из пожеланий для структурных диаграмм использовать C4 model, мысль перевести оф доку и выложить в виде статьи, для формирования общего словаря."
+
+Вскрытие статического анализа кода проектов 1С
+https://infostart.ru/1c/articles/1743708/
+
+анализ конфигурации 1с - Java - (проанализировать репозиторий, внести свои правки)
+https://github.com/1c-syntax/mdclasses
+
+Поддержка языка 1С:Предприятие 8 и OneScript для SonarQube.
+https://github.com/1c-syntax/sonar-bsl-plugin-community
+
+Context collector for BSL (Сборщик контекста)
+https://github.com/otymko/bsl-context-collector
+
+
+Статический анализатор кода проектов 1C (EPF, ERF, CF, CFE)
+https://infostart.ru/1c/tools/1949745/
